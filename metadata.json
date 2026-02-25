@@ -1,0 +1,5 @@
+{
+  "name": "VitalTrack BMI",
+  "description": "A comprehensive daily BMI tracker with visual trend analysis, health insights, and secure Google authentication.",
+  "requestFramePermissions": []
+}
